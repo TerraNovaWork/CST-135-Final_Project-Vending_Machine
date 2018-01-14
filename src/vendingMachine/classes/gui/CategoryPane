@@ -1,8 +1,8 @@
 package vendingMachine.classes.gui;
 
 /**
- * Author Rob Wade
- *
+ *Author Rob Wade
+ *Author Chrystopher Hyde
  */
 
 import javafx.application.Application;
